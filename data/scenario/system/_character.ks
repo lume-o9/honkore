@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/irusentaku.png"  ]
+[preload  storage="./data/fgimage/default/イラスト_ANIMATOR.png"  ]
+[preload  storage="./data/bgimage/tukusentaku.png"  ]
+[preload  storage="./data/bgimage/kukusentaku.png"  ]
+[preload  storage="./data/bgimage/konomesentaku.png"  ]
+[preload  storage="./data/bgimage/enasentaku.png"  ]
+[preload  storage="./data/bgimage/urusentaku.png"  ]
+[return]

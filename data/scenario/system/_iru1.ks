@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/学校のベンチ（日中）.jpg"  ]
+[preload  storage="./data/bgimage/rouka.jpg"  ]
+[preload  storage="./data/bgimage/title.jpg"  ]
+[preload  storage="./data/bgimage/room.jpg"  ]
+[preload  storage="./data/bgimage/kurohaikei.png"  ]
+[preload  storage="./data/bgimage/教室の前の方（日中）.jpg"  ]
+[preload  storage="./data/bgimage/koumonn.png"  ]
+[return]

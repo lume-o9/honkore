@@ -1,0 +1,10 @@
+[_tb_system_call storage=system/_preview.ks ]
+
+[mask time=10]
+[bg  time="10"  method="crossfade"  storage="kurohaikei.png"  ]
+[playbgm  volume="100"  time="1000"  loop="true"  storage="nitijyou.mp3"  ]
+[tb_show_message_window] 
+[mask_off time=10]
+[mask_off  time="0"  effect="fadeOut"  ]
+[movie  volume="70"  storage="aaa22.mp4"  ]
+[jump  storage="character.ks"  target=""  ]
